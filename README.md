@@ -3,7 +3,7 @@ DevConf.in 2018 is the second annual Developers' Conference to be organised by R
 
 The Conference will take place at August 4-5, 2018 in Bangalore. [Full story](https://devconf.info/in)
 
-* Talk title : Authentication or Authorization as a Service (AAAS)
+* Title : Authentication or Authorization as a Service (AAAS)
 * Description : Authorization as a Service (AAAS) is a service able to correlate identity, context and operational facts with a rule-driven policy, and produce a decision for an authorized claimant. Authentication is an important factor in the success of applications and their architectures. Serverless architectures are no exception to this. One of the leading serverless Authentication as a Service (AaaS) platforms is Auth0. In this talk the audience learned about the different concepts of Authentication or Authorization. 
 
 ### Goals : 
