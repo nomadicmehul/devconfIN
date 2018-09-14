@@ -1,7 +1,7 @@
 # devconfIN 2018
 DevConf.in 2018 is the second annual Developers' Conference to be organised by Red Hat in Bengaluru, India. It is meant to provide a platform to the local FOSS community participants to come together and engage in the knowledge sharing through technical talks, workshops, panel discussions, hackathon and such activities.
 
-The Conference will take place at August 4-5, 2018 in Bangalore. [Full story](https://devconf.info/in)
+The Conference will take place at August 4-5, 2018 in Bangalore. [Full story](https://devconf.info/in/2018)
 
 * Title : JS Authentication with Auth0
 * Description : This is introductory talk about the JS Authentication, where Viral will discuss about the role that Auth0 authentication plays in modern software development where it is a lot more than just the login screen. You will be able to learn about the different concept about the authentication with JS and In this talk the audience will learned about the different concepts that make up modern identity important for us to be secure, it will also enable people from the different peers technical as well as non-technical enthusiast to take opportunities to rethink of Authentication process of web application. 
